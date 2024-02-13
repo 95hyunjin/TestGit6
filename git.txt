@@ -31,8 +31,11 @@ GIT - SVN
 > 깃의 commit 기록 확인
   git log
   git log --oneline --all --graph
->
 
+> 깃 상태 변경 (세이브 포인트 변경)
+  git checkout 커밋아이디
+  
+> 
 
 
 
